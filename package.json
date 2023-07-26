@@ -1,0 +1,24 @@
+{
+  "name": "svg_logo_maker",
+  "version": "1.0.0",
+  "description": "build a node.js command-line application that takes in user input to generate a logo and save it as an svg file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "svg",
+    "file",
+    "javascript",
+    "shapes"
+  ],
+  "author": "Melissa Kalish",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inquirer": "^9.2.8"
+  },
+  "devDependencies": {
+    "jest": "^29.6.1"
+  }
+}
