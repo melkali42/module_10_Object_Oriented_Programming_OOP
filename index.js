@@ -24,13 +24,13 @@ function generateLogo() {
         type: 'list',
         name: 'color',
         message: 'Select a color:',
-        choices: ['red', 'blue', 'green'], // Add more color options if needed
+        choices: ['red', 'blue', 'green'], 
       },
       {
         type: 'list',
         name: 'shape',
         message: 'Select a shape:',
-        choices: ['circle', 'square', 'triangle'], // Add more shape options if needed
+        choices: ['circle', 'square', 'triangle'], 
       },
       {
         type: 'input',
